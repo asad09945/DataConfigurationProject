@@ -1,0 +1,803 @@
+<?xml version="1.0"?>
+<ER_visits>
+  <ER_visit>
+    <date_admitted>2025-01-09</date_admitted>
+    <date_discharged>2025-01-11</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Asthma</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-28</date_admitted>
+    <date_discharged>2025-04-01</date_discharged>
+    <reason_for_visit>Chest Pain</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-04-01</date_admitted>
+    <date_discharged>2025-04-06</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Prescribed medication</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-06</date_admitted>
+    <date_discharged>2025-01-10</date_discharged>
+    <reason_for_visit>Chest Pain</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-21</date_admitted>
+    <date_discharged>2025-03-22</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-22</date_admitted>
+    <date_discharged>2025-03-27</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Asthma</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-17</date_admitted>
+    <date_discharged>2025-01-21</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Asthma</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-23</date_admitted>
+    <date_discharged>2025-03-24</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-29</date_admitted>
+    <date_discharged>2025-04-01</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Asthma</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-01</date_admitted>
+    <date_discharged>2025-03-04</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-20</date_admitted>
+    <date_discharged>2025-02-22</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Prescribed medication</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-07</date_admitted>
+    <date_discharged>2025-03-09</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-04</date_admitted>
+    <date_discharged>2025-03-06</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-17</date_admitted>
+    <date_discharged>2025-03-22</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-17</date_admitted>
+    <date_discharged>2025-03-20</date_discharged>
+    <reason_for_visit>Chest Pain</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-23</date_admitted>
+    <date_discharged>2025-01-24</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-22</date_admitted>
+    <date_discharged>2025-02-27</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-03</date_admitted>
+    <date_discharged>2025-01-04</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Asthma</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-12</date_admitted>
+    <date_discharged>2025-01-14</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-15</date_admitted>
+    <date_discharged>2025-03-18</date_discharged>
+    <reason_for_visit>Chest Pain</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-20</date_admitted>
+    <date_discharged>2025-01-21</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Asthma</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-13</date_admitted>
+    <date_discharged>2025-03-18</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-11</date_admitted>
+    <date_discharged>2025-03-16</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-04</date_admitted>
+    <date_discharged>2025-02-05</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-28</date_admitted>
+    <date_discharged>2025-03-01</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-24</date_admitted>
+    <date_discharged>2025-03-28</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-27</date_admitted>
+    <date_discharged>2025-03-03</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-09</date_admitted>
+    <date_discharged>2025-03-10</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-25</date_admitted>
+    <date_discharged>2025-03-30</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-23</date_admitted>
+    <date_discharged>2025-02-25</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-02</date_admitted>
+    <date_discharged>2025-02-07</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-28</date_admitted>
+    <date_discharged>2025-03-31</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-09</date_admitted>
+    <date_discharged>2025-03-11</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Asthma</diagnosis>
+    <discharge_notes>Prescribed medication</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-08</date_admitted>
+    <date_discharged>2025-02-09</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-02</date_admitted>
+    <date_discharged>2025-03-04</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Prescribed medication</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-11</date_admitted>
+    <date_discharged>2025-01-15</date_discharged>
+    <reason_for_visit>Chest Pain</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-31</date_admitted>
+    <date_discharged>2025-02-02</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-08</date_admitted>
+    <date_discharged>2025-03-12</date_discharged>
+    <reason_for_visit>Chest Pain</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-12</date_admitted>
+    <date_discharged>2025-01-16</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-05</date_admitted>
+    <date_discharged>2025-03-09</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-18</date_admitted>
+    <date_discharged>2025-03-19</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-12</date_admitted>
+    <date_discharged>2025-02-16</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-22</date_admitted>
+    <date_discharged>2025-03-24</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Asthma</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-08</date_admitted>
+    <date_discharged>2025-02-11</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-10</date_admitted>
+    <date_discharged>2025-02-11</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-08</date_admitted>
+    <date_discharged>2025-02-12</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-04</date_admitted>
+    <date_discharged>2025-03-05</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-23</date_admitted>
+    <date_discharged>2025-03-28</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Prescribed medication</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-12</date_admitted>
+    <date_discharged>2025-02-16</date_discharged>
+    <reason_for_visit>Chest Pain</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-12</date_admitted>
+    <date_discharged>2025-03-14</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-22</date_admitted>
+    <date_discharged>2025-01-27</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Asthma</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-02</date_admitted>
+    <date_discharged>2025-01-06</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Asthma</diagnosis>
+    <discharge_notes>Prescribed medication</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-11</date_admitted>
+    <date_discharged>2025-01-14</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-07</date_admitted>
+    <date_discharged>2025-01-09</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-06</date_admitted>
+    <date_discharged>2025-03-09</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-27</date_admitted>
+    <date_discharged>2025-01-31</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-06</date_admitted>
+    <date_discharged>2025-01-09</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Prescribed medication</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-06</date_admitted>
+    <date_discharged>2025-03-10</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-17</date_admitted>
+    <date_discharged>2025-03-21</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-11</date_admitted>
+    <date_discharged>2025-03-13</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-18</date_admitted>
+    <date_discharged>2025-01-20</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-08</date_admitted>
+    <date_discharged>2025-03-12</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Prescribed medication</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-20</date_admitted>
+    <date_discharged>2025-02-25</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-09</date_admitted>
+    <date_discharged>2025-02-12</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-21</date_admitted>
+    <date_discharged>2025-01-24</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-21</date_admitted>
+    <date_discharged>2025-03-24</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-14</date_admitted>
+    <date_discharged>2025-02-16</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-14</date_admitted>
+    <date_discharged>2025-03-17</date_discharged>
+    <reason_for_visit>Chest Pain</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Asthma</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-09</date_admitted>
+    <date_discharged>2025-02-13</date_discharged>
+    <reason_for_visit>Chest Pain</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-28</date_admitted>
+    <date_discharged>2025-04-02</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-03</date_admitted>
+    <date_discharged>2025-02-05</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Prescribed medication</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-26</date_admitted>
+    <date_discharged>2025-02-28</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Asthma</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-24</date_admitted>
+    <date_discharged>2025-01-29</date_discharged>
+    <reason_for_visit>Chest Pain</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-16</date_admitted>
+    <date_discharged>2025-01-20</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-05</date_admitted>
+    <date_discharged>2025-01-07</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-16</date_admitted>
+    <date_discharged>2025-01-17</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-29</date_admitted>
+    <date_discharged>2025-04-01</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-26</date_admitted>
+    <date_discharged>2025-01-30</date_discharged>
+    <reason_for_visit>Chest Pain</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-11</date_admitted>
+    <date_discharged>2025-01-12</date_discharged>
+    <reason_for_visit>Chest Pain</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Asthma</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-02</date_admitted>
+    <date_discharged>2025-02-06</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Asthma</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-20</date_admitted>
+    <date_discharged>2025-03-21</date_discharged>
+    <reason_for_visit>Chest Pain</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-26</date_admitted>
+    <date_discharged>2025-03-02</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-27</date_admitted>
+    <date_discharged>2025-04-01</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Asthma</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-28</date_admitted>
+    <date_discharged>2025-01-30</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-04</date_admitted>
+    <date_discharged>2025-03-05</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-17</date_admitted>
+    <date_discharged>2025-02-19</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-02</date_admitted>
+    <date_discharged>2025-01-07</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-10</date_admitted>
+    <date_discharged>2025-02-14</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-15</date_admitted>
+    <date_discharged>2025-01-20</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>5</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-01</date_admitted>
+    <date_discharged>2025-03-05</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-13</date_admitted>
+    <date_discharged>2025-01-17</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Monitor symptoms</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-30</date_admitted>
+    <date_discharged>2025-02-01</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Prescribed medication</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-05</date_admitted>
+    <date_discharged>2025-03-08</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-06</date_admitted>
+    <date_discharged>2025-03-07</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>1</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-03-03</date_admitted>
+    <date_discharged>2025-03-06</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Heartburn</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-04-01</date_admitted>
+    <date_discharged>2025-04-04</date_discharged>
+    <reason_for_visit>Fever</reason_for_visit>
+    <total_length_of_stay>3</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-19</date_admitted>
+    <date_discharged>2025-02-23</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Dietary changes recommended</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-02-19</date_admitted>
+    <date_discharged>2025-02-23</date_discharged>
+    <reason_for_visit>Headache</reason_for_visit>
+    <total_length_of_stay>4</total_length_of_stay>
+    <diagnosis>Food Poisoning</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-01</date_admitted>
+    <date_discharged>2025-01-03</date_discharged>
+    <reason_for_visit>Shortness of Breath</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Migraine</diagnosis>
+    <discharge_notes>Rest and hydration</discharge_notes>
+  </ER_visit>
+  <ER_visit>
+    <date_admitted>2025-01-16</date_admitted>
+    <date_discharged>2025-01-18</date_discharged>
+    <reason_for_visit>Stomach Ache</reason_for_visit>
+    <total_length_of_stay>2</total_length_of_stay>
+    <diagnosis>Viral Infection</diagnosis>
+    <discharge_notes>Follow-up required</discharge_notes>
+  </ER_visit>
+</ER_visits>
