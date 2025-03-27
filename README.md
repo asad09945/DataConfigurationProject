@@ -50,11 +50,7 @@ Ensure you have the following installed:
 ### Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone <your-repo-link>
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd <project-folder>
+   git clone https://github.com/asad09945/DataConfigurationProject/edit/main/README.md
    ```
 3. Run the Python script to load XML data into MySQL:
    ```sh
